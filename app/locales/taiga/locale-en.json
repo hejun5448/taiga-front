@@ -1354,7 +1354,7 @@
         },
         "TAGS": {
             "TOGGLE": "Toggle tags visibility",
-            "SHOW": "Show tags",
+            "SHOW": "tags",
             "HIDE": "Hide tags"
         },
         "FORECASTING": {
